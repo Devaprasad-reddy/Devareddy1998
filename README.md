@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devareddy1998
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Medicine 
-- 💞️ I’m looking to collaborate on biosensors, cyborg tech 
+- 🫀 I’m currently learning Medicine 
+- 🧬 I’m looking to collaborate on biosensors, cyborg tech 
 - 📫 How to reach me devaprasadreddy@gmail.com
 
 <!---
